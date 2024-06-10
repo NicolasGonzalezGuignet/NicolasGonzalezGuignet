@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Nicolás]
+# ¡Hola! 👋 Soy Nicolás
 
 ![Profile Banner](https://i.imgur.com/lLm46e2.png)
 
