@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Nicolás]
 
-![Profile Banner](https://imgur.com/a/5LgU2sk)
+![Profile Banner](https://i.imgur.com/lLm46e2.png)
 
 
 ## 🚀 Sobre Mí
