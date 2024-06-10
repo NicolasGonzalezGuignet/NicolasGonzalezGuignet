@@ -14,7 +14,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub de tu nombre](https://github-readme-stats.vercel.app/api?username=NicolasGonzalezGuignet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Estadísticas de GitHub de Nicolas Gonzalez Guignet](https://github-readme-stats.vercel.app/api?username=NicolasGonzalezGuignet&show_icons=true&hide_border=true&cache_seconds=1800)
+
 
 ## 🔗 Enlaces
 - [LinkedIn](www.linkedin.com/in/nicolasgonzalezguignet)
