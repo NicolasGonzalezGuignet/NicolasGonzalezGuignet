@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy [Nicolás]
 
-<!--
-**NicolasGonzalezGuignet/NicolasGonzalezGuignet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://drive.google.com/file/d/1zjVwYDL2Ct6Wtg034DMGxOl316HgLX79/view?usp=drive_link)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mí
+
+- 🌱 Aprendiendo: [Data Science, Data Engineering]
+- 📫 Cómo contactarme: [nicolas.gonzalezg22@gmail.com]
+
+## 🛠️ Lenguajes y Herramientas
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub de tu nombre](https://github-readme-stats.vercel.app/api?username=NicolasGonzalezGuignet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
+## 🔗 Enlaces
+- [LinkedIn](www.linkedin.com/in/nicolasgonzalezguignet)
