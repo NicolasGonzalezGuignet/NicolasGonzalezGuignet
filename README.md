@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Nicolás]
 
-![Profile Banner]([https://drive.google.com/file/d/1zjVwYDL2Ct6Wtg034DMGxOl316HgLX79/view?usp=drive_link](https://imgur.com/a/5LgU2sk))
+![Profile Banner](https://imgur.com/a/5LgU2sk)
 
 
 ## 🚀 Sobre Mí
