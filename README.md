@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
 <h3 align="center">A passionate Industrial Engineer focused on the world of data.</h3>
+<div align="center">
+    <img src="https://i.imgur.com/lLm46e2.png" alt="Profile Banner">
+</div>
 
 - 🌱 I’m currently learning **All about Data (Data Science, Data engineering)**
 
