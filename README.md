@@ -30,10 +30,5 @@
         <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow" width="40" height="40">
     </a></p>
 
-
 </p>
 
-<p align="left">
-    <img src="https://img.shields.io/badge/-R-333333?style=flat&logo=r" alt="R">
-    <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql" alt="SQL">
-</p>
