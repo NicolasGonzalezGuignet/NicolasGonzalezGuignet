@@ -21,7 +21,7 @@
         <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40">
     </a>
     <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-        <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Power BI" width="80" height="70">
+        <img src="https://www.superhub.com.hk/wp-content/uploads/elementor/thumbs/Website_Power_Platform_Apps3-po0qhu1dbwr6mhnsvhmbme7nsgqpg2kxabovaf9cr6.png" alt="Power BI" width="80" height="40">
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
         <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="95" height="40">
