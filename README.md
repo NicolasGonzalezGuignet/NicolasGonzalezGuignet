@@ -24,7 +24,7 @@
         <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40">
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="75" height="40">
+        <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="90" height="40">
     </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow" width="40" height="40">
