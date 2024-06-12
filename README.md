@@ -1,22 +1,11 @@
-# ¡Hola! 👋 Soy Nicolás
 
-![Profile Banner](https://i.imgur.com/lLm46e2.png)
-
-
-## 🚀 Sobre Mí
-
-- 🌱 Aprendiendo: [Data Science, Data Engineering]
-- 📫 Cómo contactarme: [nicolas.gonzalezg22@gmail.com]
-
-## 🛠️ Lenguajes y Herramientas
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
-## 🔗 Enlaces
-- [LinkedIn](www.linkedin.com/in/nicolasgonzalezguignet)
+
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
 <h3 align="center">A passionate Industrial Engineer focused on the world of data.</h3>
+![Profile Banner](https://i.imgur.com/lLm46e2.png)
 
 - 🌱 I’m currently learning **All about Data (Data Science, Data engineering)**
 
