@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nicolas.gonzalezg22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KzFbvANd0oC0fPjh_MEzPApRlgbciF2B/view?usp=drive_link](https://drive.google.com/file/d/1KzFbvANd0oC0fPjh_MEzPApRlgbciF2B/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yF_ICbzNHdUL6XnJGYFoVvDM4EZMihsh/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
