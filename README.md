@@ -32,6 +32,9 @@
     <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://onedata.ai/wp-content/uploads/2024/02/azure-cloud.svg" alt="Azure" width="120" height="50">
     </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://git-for-windows.github.io/img/git_logo.png" alt="Git" width="120" height="50">
+    </a>
 
 
 </p>
