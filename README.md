@@ -74,6 +74,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://git-for-windows.github.io/img/git_logo.png" alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://azure.microsoft.com/es-es/products/data-factory" target="_blank" rel="noreferrer">
+    <img src="https://ebisgroup.com/wp-content/uploads/2025/01/azure-data-factory.png" alt="Azure Data Factory" width="100" height="40"/>
+  </a>
 </p>
 
 
