@@ -78,7 +78,7 @@
     <img src="https://ebisgroup.com/wp-content/uploads/2025/01/azure-data-factory.png" alt="Azure Data Factory" width="100" height="40"/>
   </a>
   <a href="https://aws.amazon.com/es/glue/" target="_blank" rel="noreferrer">
-    <img src="https://lumendata.com/wp-content/uploads/2025/05/What-is-AWS-Glue.png" alt="AWS Glue" width="100" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*QEg0q1I-aFaGSi4a.png" alt="AWS Glue" width="100" height="40"/>
   </a>
 </p>
 
