@@ -78,7 +78,7 @@
     <img src="https://ebisgroup.com/wp-content/uploads/2025/01/azure-data-factory.png" alt="Azure Data Factory" width="100" height="40"/>
   </a>
   <a href="https://aws.amazon.com/es/glue/" target="_blank" rel="noreferrer">
-    <img src="https://www.cloudmantra.net/wp-content/uploads/2018/04/AWS_GLue__1_400x260.png" alt="AWS Glue" width="100" height="40"/>
+    <img src="https://d3g9o9u8re44ak.cloudfront.net/logo/40c0988b-b7ec-4c51-9732-5fd3c7d52928/96ad06d5-cf24-4ffe-94fb-5d3085d7d3eb.png" alt="AWS Glue" width="100" height="40"/>
   </a>
 </p>
 
