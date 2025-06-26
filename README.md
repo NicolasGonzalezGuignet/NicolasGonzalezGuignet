@@ -43,7 +43,7 @@
     <img src="https://teorema-rd.com/wp-content/uploads/2024/04/Tableau-Emblem.png" alt="Tableau" width="95" height="40">
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://d33wubrfki0l68.cloudfront.net/1f69dd8fe9614eed3db0718103889c3d8124122e/6ebbd/static/50095fdbae4a1a09db8481321c3f9713/fe336/airflow.png" alt="Apache Airflow" width="130" height="40">
+    <img src="https://d33wubrfki0l68.cloudfront.net/1f69dd8fe9614eed3db0718103889c3d8124122e/6ebbd/static/50095fdbae4a1a09db8481321c3f9713/fe336/airflow.png" alt="Apache Airflow" width="100" height="40">
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://onedata.ai/wp-content/uploads/2024/02/azure-cloud.svg" alt="Azure" width="120" height="50">
