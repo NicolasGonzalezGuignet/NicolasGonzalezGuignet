@@ -52,7 +52,7 @@
     <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="90" height="40">
   </a>
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets-global.website-files.com/61dc0796d156f05c30054e9b/641b9a9e5a6316dc6dc36cfa_logo-snowflake.svg" alt="Snowflake" width="100" height="40">
+    <img src="https://i0.wp.com/cdn-images-1.medium.com/max/1200/0*AmYXrtpALhMlQcZI.png?resize=537%2C282&ssl=1" alt="Snowflake" width="100" height="40">
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="80" height="40">
