@@ -58,7 +58,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="80" height="40">
   </a>
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/D/databricks-logo-77E67B0C2D-seeklogo.com.png" alt="Databricks" width="100" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="100" height="40">
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://git-for-windows.github.io/img/git_logo.png" alt="Git" width="40" height="40">
